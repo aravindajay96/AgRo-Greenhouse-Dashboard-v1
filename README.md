@@ -13,10 +13,10 @@ A modern, data-driven **Greenhouse Analytics Dashboard** built with **React.js**
 ## 📸 Preview
 
 ### 🏡 Greenhouse Dashboard
-![Dashboard Preview](Screenshot%202025-10-17%20144445.png)
+![Dashboard Preview](Screenshot_17-10-2025_154657_agrogreenhouse0-38d6a.web.app)
 
 ### 🍓 Plant Growth Tracking
-![Plant Growth Preview](Screenshot%202025-10-17%20144742.png)
+![Plant Growth Preview](Screenshot_17-10-2025_154738_agrogreenhouse0-38d6a.web.app)
 
 > *Visualize greenhouse metrics like humidity and light levels — and track plant growth with timestamped image logs.*
 
